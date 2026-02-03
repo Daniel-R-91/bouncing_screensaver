@@ -30,4 +30,5 @@ pip install pygame
 ---
 
 How to Run
+
 python main.py
