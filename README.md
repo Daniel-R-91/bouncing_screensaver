@@ -9,11 +9,9 @@ Features
 
 Smooth bouncing text animation
 
-Adjustable screen size and speed
-
 Runs at a stable 60 FPS
 
-Minimal and beginner-friendly Pygame example
+Minimal and beginner-friendly code
 
 ---
 
@@ -22,6 +20,8 @@ Requirements
 Python 3.x
 
 Pygame
+
+---
 
 Install Pygame with:
 
